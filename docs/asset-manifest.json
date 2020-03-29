@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/resizable-assessment/static/css/main.684a95bf.chunk.css",
+    "main.js": "/resizable-assessment/static/js/main.5b3bc816.chunk.js",
+    "main.js.map": "/resizable-assessment/static/js/main.5b3bc816.chunk.js.map",
+    "runtime-main.js": "/resizable-assessment/static/js/runtime-main.0ee0c33c.js",
+    "runtime-main.js.map": "/resizable-assessment/static/js/runtime-main.0ee0c33c.js.map",
+    "static/js/2.38be97b8.chunk.js": "/resizable-assessment/static/js/2.38be97b8.chunk.js",
+    "static/js/2.38be97b8.chunk.js.map": "/resizable-assessment/static/js/2.38be97b8.chunk.js.map",
+    "index.html": "/resizable-assessment/index.html",
+    "precache-manifest.6c2b5616d8e368a9cd24e5e33a60a9cb.js": "/resizable-assessment/precache-manifest.6c2b5616d8e368a9cd24e5e33a60a9cb.js",
+    "service-worker.js": "/resizable-assessment/service-worker.js",
+    "static/css/main.684a95bf.chunk.css.map": "/resizable-assessment/static/css/main.684a95bf.chunk.css.map",
+    "static/js/2.38be97b8.chunk.js.LICENSE.txt": "/resizable-assessment/static/js/2.38be97b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ee0c33c.js",
+    "static/js/2.38be97b8.chunk.js",
+    "static/css/main.684a95bf.chunk.css",
+    "static/js/main.5b3bc816.chunk.js"
+  ]
+}
